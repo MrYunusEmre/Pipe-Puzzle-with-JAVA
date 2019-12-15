@@ -1,2 +1,2 @@
 # Pipe-Puzzle-Game-with-JAVA
-# Details of project are in the Rapor.txt
+# Details of project are in the JavaRapor.DOCx
